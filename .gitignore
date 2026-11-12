@@ -1,0 +1,9 @@
+.build/
+build/
+/Ledge.app
+.swiftpm/
+.DS_Store
+*.xcodeproj
+Resources/AppIcon-preview.png
+.agents/
+.cursor/
