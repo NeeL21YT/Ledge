@@ -366,6 +366,6 @@ Sources/Ledge/
 
 *Last updated November 13, 2026.*
 
-Built with <img src="Resources/heart.svg" alt="love" width="16" height="16" /> by [GaLaXantic Studios](https://github.com/NeeL21YT/Ledge). Created and maintained by Nilutpal (NeeL).
+Built with <img src="Resources/heart.svg" alt="love" width="16" height="16" /> by [GaLaXantic Studios](https://galaxanticstudios.com/). Created and maintained by Nilutpal (NeeL).
 
 Ledge is open source under the [Apache License 2.0](LICENSE). You are free to use, modify and redistribute it, but you must give credit: keep the copyright and attribution notices in the [NOTICE](NOTICE) file with any copy or derivative work, and state any changes you made. It includes libwebp (BSD 3-Clause, see [`Sources/CWebP/COPYING`](Sources/CWebP/COPYING)).
